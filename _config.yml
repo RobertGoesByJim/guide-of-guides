@@ -33,31 +33,32 @@ expand_nav: true
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
+
 - text: About This Repository
   internal: true
 - text: About Citizens @ the Centre
-  url: http://citizens-at-the-centre.pathfinder.gov.bc.ca 
+  url: http://citizens-at-the-centre.pathfinder.bcgov
   internal: false
 - text: Agile Scrum Guide
-  url: http://agile-guide.pathfinder.gov.bc.ca/ag_alignwithagile/
+  url: http://agile-guide.pathfinder.bcgov/ag_alignwithagile/
   internal: false
 - text: BC Agile Guides Template
-  url: http://github-guide.pathfinder.gov.bc.ca/
+  url: http://github-guide.pathfinder.bcgov/
   internal: false
 - text: Data-Driven Decision Making
-  url: http://data-driven-decision-making-guide.pathfinder.gov.bc.ca/
+  url: http://data-driven-decision-making-guide.pathfinder.bcgov/
   internal: false
 - text: Enterprise Business Architecture Guide
-  url: http://eba-guide.pathfinder.gov.bc.ca/eba_context/eba_context_output/
+  url: http://eba-guide.pathfinder.bcgov/eba_context/eba_context_output/
   internal: false
 - text: IT Product and Service Design Guide
-  url: http://mode1-guide.pathfinder.gov.bc.ca/
+  url: http://mode1-guide.pathfinder.bcgov/
   internal: false
 - text: REST API Development Standard Guide
-  url: http://api-guide.pathfinder.gov.bc.ca/
+  url: http://api-guide.pathfinder.bcgov/
   internal: false
 - text: Segmentation Guide
-  url: http://segmentation-guide.pathfinder.gov.bc.ca/
+  url: http://segmentation-guide.pathfinder.bcgov/
   internal: false
 
 repos:
@@ -66,7 +67,7 @@ repos:
   url: https://github.com/bcgov/guide-of-guides
 
 back_link:
-  url: "https://guides.pathfinder.gov.bc.ca/"
+  url: "https://guides.pathfinder.bcgov/"
   text: Read more BC Digital Guides
 
 google_analytics_ua: UA-48605964-19
