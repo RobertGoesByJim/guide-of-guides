@@ -67,7 +67,7 @@ repos:
   url: https://github.com/bcgov/guide-of-guides
 
 back_link:
-  url: "https://guides.pathfinder.bcgov/"
+  url: "http://guides.pathfinder.bcgov/"
   text: Read more BC Digital Guides
 
 google_analytics_ua: UA-48605964-19
