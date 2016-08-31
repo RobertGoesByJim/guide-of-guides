@@ -42,7 +42,7 @@ navigation:
 - text: Agile Scrum Guide
   url: http://agile-guide.pathfinder.bcgov/ag_alignwithagile/
   internal: false
-- text: BC Agile Guides Template
+- text: GitHub Guide
   url: http://github-guide.pathfinder.bcgov/
   internal: false
 - text: Data-Driven Decision Making
