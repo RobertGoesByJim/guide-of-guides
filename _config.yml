@@ -49,7 +49,7 @@ navigation:
   url: http://data-driven-decision-making-guide.pathfinder.bcgov/
   internal: false
 - text: Enterprise Business Architecture Guide
-  url: http://eba-guide.pathfinder.bcgov/eba_context/eba_context_output/
+  url: http://eba-guide.pathfinder.bcgov/_config.yml
   internal: false
 - text: IT Product and Service Design Guide
   url: http://mode1-guide.pathfinder.bcgov/
